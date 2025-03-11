@@ -1,2 +1,2 @@
-# Atividade-em-java-1
+# Atividade-em-javaScript-1
 ATV 1 
